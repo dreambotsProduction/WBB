@@ -25,7 +25,7 @@
 <h3 align="center"> 
     Ready to use method
 </h3>
-
+[![Deploy+on+Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/dreambotsproduction/WWB
 <p align="center">
     A Support Group and ready-to-use running instance of this bot can be found on Telegram <br>
     <a href="https://t.me/WilliamButcherBot"> WilliamButcherBot </a> | 
