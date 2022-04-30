@@ -140,16 +140,16 @@ home_keyboard_pm = InlineKeyboardMarkup(
 )
 
 home_text_pm = (
-        f"Hey there! My name is {BOT_NAME}. I can manage your "
-        + "group with lots of useful features, feel free to "
-        + "add me to your group."
+        f"𝙷𝚎𝚢 𝚝𝚑𝚎𝚛𝚎! 𝙼𝚢 𝚗𝚊𝚖𝚎 𝚒𝚜 {BOT_NAME}. 𝙸 𝚌𝚊𝚗 𝚖𝚊𝚗𝚊𝚐𝚎 𝚢𝚘𝚞𝚛 "
+        + "𝚐𝚛𝚘𝚞𝚙 𝚠𝚒𝚝𝚑 𝚕𝚘𝚝𝚜 𝚘𝚏 𝚞𝚜𝚎𝚏𝚞𝚕 𝚏𝚎𝚊𝚝𝚞𝚛𝚎𝚜, 𝚏𝚎𝚎𝚕 𝚏𝚛𝚎𝚎 𝚝𝚘 "
+        + "𝚊𝚍𝚍 𝚖𝚎 𝚝𝚘 𝚢𝚘𝚞𝚛 𝚐𝚛𝚘𝚞𝚙."
 )
 
 keyboard = InlineKeyboardMarkup(
     [
         [
             InlineKeyboardButton(
-                text="Help ❓",
+                text="★𝙃𝙚𝙡𝙥★",
                 url=f"t.me/{BOT_USERNAME}?start=help",
             ),
             InlineKeyboardButton(
@@ -159,10 +159,10 @@ keyboard = InlineKeyboardMarkup(
         ],
         [
             InlineKeyboardButton(
-                text="System Stats 💻",
+                text="𝙎𝙮𝙨𝙩𝙚𝙢 𝙎𝙩𝙖𝙩𝙨 💻",
                 callback_data="stats_callback",
             ),
-            InlineKeyboardButton(text="Support 👨", url="t.me/WBBSupport"),
+            InlineKeyboardButton(text="𝙎𝙪𝙥𝙥𝙤𝙧𝙩 👨", url="t.me/iBotsSupport"),
         ],
     ]
 )
