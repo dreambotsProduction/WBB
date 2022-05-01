@@ -72,7 +72,7 @@ thehamkercat@arch:~$ python3 -m wbb
             <img src="https://railway.app/button.svg" alt="Deploy on Railway">
         </a>
     <p align="center">
-        <a href="https://heroku.com/deploy?template=https://github.com/dreambotsproduction/WWB">
+        <a href="https://heroku.com/deploy?template=https://github.com/dreambotsProduction/WBB">
             <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
         </a>
     </p>
